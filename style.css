@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .main-menu {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 0;
+  }
+  
+  .bslclogo {
+    width: 120px;
+  }
+  
+
+  .learner {
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  .pelajar-image {
+    width: 100%;
+    max-width: 400px;
+    margin: 2em auto 0;
+  }
+  
+  .highlight {
+    color: #19A89D,;
+  }
+  
+ 
+  .nindya {
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  
+  
+  .pengalaman{
+    padding: 2em 0;
+  }
+  
+  .pengalaman-asli {
+    display: flex;
+    gap: 2em;
+  }
+  
+  .experience {
+    flex: 1;
+    text-align: center;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .icon{
+    width: 20px; 
+    height:20px;
+    margin-right:10px;
+    vertical align: middle;
+ }
+ 
+  
+  .footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #333;
+    color: #fff;
+  }
+  footer .social-media a {
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  footer .social-media a:hover {
+    text-decoration: underline;
+  }
